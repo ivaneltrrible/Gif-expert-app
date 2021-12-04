@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ivaneltrrible/Gif-expert-app/static/css/main.22d2d6cf.chunk.css",
+    "main.js": "/ivaneltrrible/Gif-expert-app/static/js/main.29a9f525.chunk.js",
+    "main.js.map": "/ivaneltrrible/Gif-expert-app/static/js/main.29a9f525.chunk.js.map",
+    "runtime-main.js": "/ivaneltrrible/Gif-expert-app/static/js/runtime-main.b613372f.js",
+    "runtime-main.js.map": "/ivaneltrrible/Gif-expert-app/static/js/runtime-main.b613372f.js.map",
+    "static/css/2.a1596f27.chunk.css": "/ivaneltrrible/Gif-expert-app/static/css/2.a1596f27.chunk.css",
+    "static/js/2.05e229d0.chunk.js": "/ivaneltrrible/Gif-expert-app/static/js/2.05e229d0.chunk.js",
+    "static/js/2.05e229d0.chunk.js.map": "/ivaneltrrible/Gif-expert-app/static/js/2.05e229d0.chunk.js.map",
+    "index.html": "/ivaneltrrible/Gif-expert-app/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/ivaneltrrible/Gif-expert-app/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.22d2d6cf.chunk.css.map": "/ivaneltrrible/Gif-expert-app/static/css/main.22d2d6cf.chunk.css.map",
+    "static/js/2.05e229d0.chunk.js.LICENSE.txt": "/ivaneltrrible/Gif-expert-app/static/js/2.05e229d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b613372f.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.05e229d0.chunk.js",
+    "static/css/main.22d2d6cf.chunk.css",
+    "static/js/main.29a9f525.chunk.js"
+  ]
+}
