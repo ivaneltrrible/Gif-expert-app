@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Gif-expert-app/static/css/main.22d2d6cf.chunk.css",
-    "main.js": "/Gif-expert-app/static/js/main.29a9f525.chunk.js",
-    "main.js.map": "/Gif-expert-app/static/js/main.29a9f525.chunk.js.map",
+    "main.js": "/Gif-expert-app/static/js/main.5228dabc.chunk.js",
+    "main.js.map": "/Gif-expert-app/static/js/main.5228dabc.chunk.js.map",
     "runtime-main.js": "/Gif-expert-app/static/js/runtime-main.34a6e94f.js",
     "runtime-main.js.map": "/Gif-expert-app/static/js/runtime-main.34a6e94f.js.map",
     "static/css/2.a1596f27.chunk.css": "/Gif-expert-app/static/css/2.a1596f27.chunk.css",
-    "static/js/2.05e229d0.chunk.js": "/Gif-expert-app/static/js/2.05e229d0.chunk.js",
-    "static/js/2.05e229d0.chunk.js.map": "/Gif-expert-app/static/js/2.05e229d0.chunk.js.map",
+    "static/js/2.18b94167.chunk.js": "/Gif-expert-app/static/js/2.18b94167.chunk.js",
+    "static/js/2.18b94167.chunk.js.map": "/Gif-expert-app/static/js/2.18b94167.chunk.js.map",
     "index.html": "/Gif-expert-app/index.html",
     "static/css/2.a1596f27.chunk.css.map": "/Gif-expert-app/static/css/2.a1596f27.chunk.css.map",
     "static/css/main.22d2d6cf.chunk.css.map": "/Gif-expert-app/static/css/main.22d2d6cf.chunk.css.map",
-    "static/js/2.05e229d0.chunk.js.LICENSE.txt": "/Gif-expert-app/static/js/2.05e229d0.chunk.js.LICENSE.txt"
+    "static/js/2.18b94167.chunk.js.LICENSE.txt": "/Gif-expert-app/static/js/2.18b94167.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.34a6e94f.js",
     "static/css/2.a1596f27.chunk.css",
-    "static/js/2.05e229d0.chunk.js",
+    "static/js/2.18b94167.chunk.js",
     "static/css/main.22d2d6cf.chunk.css",
-    "static/js/main.29a9f525.chunk.js"
+    "static/js/main.5228dabc.chunk.js"
   ]
 }
