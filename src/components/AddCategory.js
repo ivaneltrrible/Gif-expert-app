@@ -1,7 +1,7 @@
-import React from 'react'
+import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 
-import { useState } from 'react/cjs/react.development'
+//import { useState } from 'react/cjs/react.development'
 
 export const AddCategory = ({ setCategories }) => {
     const [inputValue, setInputValue] = useState()
